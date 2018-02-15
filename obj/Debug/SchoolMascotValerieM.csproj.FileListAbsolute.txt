@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Musyimi, Valerie (s440717)\Unit 1 (Problem Solving)\SchoolMascotValerieM\SchoolMascotValerieM\bin\Debug\SchoolMascotValerieM.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Musyimi, Valerie (s440717)\Unit 1 (Problem Solving)\SchoolMascotValerieM\SchoolMascotValerieM\bin\Debug\SchoolMascotValerieM.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Musyimi, Valerie (s440717)\Unit 1 (Problem Solving)\SchoolMascotValerieM\SchoolMascotValerieM\bin\Debug\SchoolMascotValerieM.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Musyimi, Valerie (s440717)\Unit 1 (Problem Solving)\SchoolMascotValerieM\SchoolMascotValerieM\obj\Debug\SchoolMascotValerieM.frmSchoolMascot.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Musyimi, Valerie (s440717)\Unit 1 (Problem Solving)\SchoolMascotValerieM\SchoolMascotValerieM\obj\Debug\SchoolMascotValerieM.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Musyimi, Valerie (s440717)\Unit 1 (Problem Solving)\SchoolMascotValerieM\SchoolMascotValerieM\obj\Debug\SchoolMascotValerieM.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Musyimi, Valerie (s440717)\Unit 1 (Problem Solving)\SchoolMascotValerieM\SchoolMascotValerieM\obj\Debug\SchoolMascotValerieM.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Musyimi, Valerie (s440717)\Unit 1 (Problem Solving)\SchoolMascotValerieM\SchoolMascotValerieM\obj\Debug\SchoolMascotValerieM.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Musyimi, Valerie (s440717)\Unit 1 (Problem Solving)\SchoolMascotValerieM\SchoolMascotValerieM\obj\Debug\SchoolMascotValerieM.csprojResolveAssemblyReference.cache
